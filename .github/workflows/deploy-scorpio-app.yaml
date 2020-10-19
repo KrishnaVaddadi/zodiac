@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 3.1.101
         
-    - name: Build Application
+    - name: Build Application 
       run: dotnet build scorpio-api/Application/scorpio-api.csproj --configuration Debug
 
     - name: Publish Application
