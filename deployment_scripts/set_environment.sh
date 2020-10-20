@@ -14,7 +14,7 @@ export AAD_CLIENTID=39f31a58-2bdc-4c36-ade6-8ba6e1569d9a
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
-export ZODIAC_INSTANCE=KVInSights
+export ZODIAC_INSTANCE=Happy_Wanderer
 
 echo "<h2>Environment Variables</h2>" >> deployment-log.html
 echo "<p>ZODIAC_INSTANCE:$ZODIAC_INSTANCE</p>" >> deployment-log.html
