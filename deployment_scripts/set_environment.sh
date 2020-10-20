@@ -1,12 +1,12 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=uksouth
-export SIRMIONE_KV1975Zodiac=xsirmione
-export LIMONE_KV1975Zodiac=xlimone
-export SCORPIO_KV1975Zodiac=xscorpio
-export VIRGO_KV1975Zodiac=xvirgo
-export LIBRA_KV1975Zodiac=xlibra
-export ZODIAC_KV1975Zodiac=xzodiac
+export SIRMIONE_ALIAS=kv1975zodiacsirmione
+export LIMONE_KV1975Zodiac=kv1975zodiaclimone
+export SCORPIO_KV1975Zodiac=kv1975zodiacscorpio
+export VIRGO_KV1975Zodiac=kv1975zodiacvirgo
+export LIBRA_KV1975Zodiac=kv1975zodiaclibra
+export ZODIAC_KV1975Zodiac=kv1975zodiaczodiac
 export DB_ADMIN_USER=krishna
 export AAD_DOMAIN=xekina.onmicrosoft.com
 export AAD_TENANTID=51a5c28d-b0a8-4b2f-aed3-1ec73ebb9424
