@@ -2,11 +2,11 @@
 
 export DEFAULT_LOCATION=uksouth
 export SIRMIONE_ALIAS=kv1975zodiacsirmione
-export LIMONE_KV1975Zodiac=kv1975zodiaclimone
-export SCORPIO_KV1975Zodiac=kv1975zodiacscorpio
-export VIRGO_KV1975Zodiac=kv1975zodiacvirgo
-export LIBRA_KV1975Zodiac=kv1975zodiaclibra
-export ZODIAC_KV1975Zodiac=kv1975zodiaczodiac
+export LIMONE_ALIAS=kv1975zodiaclimone
+export SCORPIO_ALIAS=kv1975zodiacscorpio
+export VIRGO_ALIAS=kv1975zodiacvirgo
+export LIBRA_ALIAS=kv1975zodiaclibra
+export ZODIAC_ALIAS=kv1975zodiaczodiac
 export DB_ADMIN_USER=krishna
 export AAD_DOMAIN=xekina.onmicrosoft.com
 export AAD_TENANTID=51a5c28d-b0a8-4b2f-aed3-1ec73ebb9424
