@@ -9,8 +9,8 @@ export LIBRA_ALIAS=kv1975zodiaclibra
 export ZODIAC_ALIAS=kv1975zodiaczodiac
 export DB_ADMIN_USER=krishna
 export AAD_DOMAIN=xekina.onmicrosoft.com
-export AAD_TENANTID=51a5c28d-b0a8-4b2f-aed3-1ec73ebb9424
-export AAD_CLIENTID=39f31a58-2bdc-4c36-ade6-8ba6e1569d9a
+export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
+export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
