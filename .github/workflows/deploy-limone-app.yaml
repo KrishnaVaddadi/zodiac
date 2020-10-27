@@ -4,9 +4,9 @@ name: Deploy Limone App
 #  push:
 #    paths:
 #    - limone-api/Application/**
-      
+
 env:
-   DEFAULT_LOCATION: uksouth 
+   DEFAULT_LOCATION: uksouth
    LIMONE_ALIAS: kv1975zodiaclimone
    ZODIAC_ALIAS: kv1975zodiaczodiac
 
