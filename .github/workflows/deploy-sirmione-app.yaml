@@ -22,7 +22,7 @@ jobs:
       run: |
              echo $SIRMIONE_ALIAS
              echo $DEFAULT_LOCATION
-             
+ 
     - name: Checkout Repo
       uses: actions/checkout@v2
 
