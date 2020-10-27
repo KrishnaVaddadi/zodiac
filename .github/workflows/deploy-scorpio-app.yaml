@@ -27,7 +27,7 @@ jobs:
     - name: Publish Application
       run: |
         dotnet publish scorpio-api/Application/scorpio-api.csproj -c Debug -o ${{env.DOTNET_ROOT}}/myapp 
-        
+
     - name: Login to Azure
       uses: azure/login@v1
       with:
